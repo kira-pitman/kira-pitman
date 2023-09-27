@@ -1,5 +1,5 @@
 
-### Kia ora, I'm Kira - full stack developer and materials scientist! 🌻
+### Kia ora, I'm Kira 🌻
 
 - I come from an experimental physics background, and have done a recent pivot into web development via Dev Academy Aotearoa!
 - I've just finished my website development bootcamp, and I'm on a mission to make technology both accessible and meaningful!
