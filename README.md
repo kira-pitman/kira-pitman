@@ -5,6 +5,7 @@
 - I've just finished my website development bootcamp, and I'm on a mission to make technology both accessible and meaningful!
 - I'm currently working on reinforcing my knowledge of react, javascript, three.js, and authentication in full-stack development!
 - Currently learning AWS, .NET(C#), and brushing up on my python!
+  
 
 If you want to discuss new tech, collaborate, or connect, I'm all ears - reach out and let's chat! ☀️
 <!--
